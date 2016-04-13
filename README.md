@@ -1,3 +1,5 @@
+###Reminder: user the develop branch for the latest updates, comments, notes and changes ... ###
+
 Rundeck Homepage: http://rundeck.org/index.html
 
 Install: http://rundeck.org/downloads.html
