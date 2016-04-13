@@ -54,6 +54,20 @@ username: admin
 password: admin
 ```
 
+**Ansible Install**
+
+Install Ansible
+On Debian-8:  apt-get install ansible -y  
+you should now have the following directory structure:
+```
+/etc/ansible
+├── ansible.cfg
+└── hosts
+```
+
+
+
+
 ... that's all I have for the moment ... 
 
 Testing
